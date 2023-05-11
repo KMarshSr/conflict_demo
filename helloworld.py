@@ -6,4 +6,4 @@ def main():
     hello_world('NYC', 'New York')
 
 
-main(
+main()
